@@ -62,5 +62,5 @@ class App extends Component {
         );
   }
 }
-//connect the state and its props with the app.js and return to index file
+// connect the state and its props with the app.js and return to index file
 export default connect(mapStateToProps, mapDispatchToProps)(App);
