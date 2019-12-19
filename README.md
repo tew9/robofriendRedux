@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for udemy course - React
+# robofriendsRedux 
+This fun educational app demonstrate the power of react with redux to manage the state
 To run the project:
 
 1. Clone this repo
